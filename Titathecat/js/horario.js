@@ -1,0 +1,4 @@
+var dormir=["dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","molestar","dormir","dormir","comer"];
+var comer=["molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir","molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir"];
+var jugar=["molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir","molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir"];
+var molestar=["molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir","molestar","jugar","molestar","dormir","dormir","comer","molestar","jugar","molestar","dormir","dormir"];    
