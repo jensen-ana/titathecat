@@ -1,0 +1,178 @@
+      <h3>Visitá nuestros amigos</h3> 
+      <p> <a ref="https://www.facebook.com/GatitosMDP/"> Gatitos MDP</a> <br>
+          <img src="images/gatitosmdp.jpg" alt="GatitosMDP" id="foto2"> <br>
+          Para adoptar un gato</p>
+      <p> <a ref="https://www.facebook.com/ChapitasMDPAnimal/"> Chapitas</a> <br>
+          <img src="images/chapita.png" alt="Chapitas" id="foto2"> <br>
+          Para identificar tu mascota</p>
+          <br>
+          <br>Comprate un
+          <br>
+      </div>
+   
+<div class="column.middle">
+    <section>
+        <p id="cat1"> La gatita tita es <b> muy especial,</b> siempre se despiesta cuando tiene que dormir, y duerme cuando tiene que despertarse
+        <br><br> Esta página contiene confesiones reales de Tita al redactor, los contenidos son controlados por Tita para asegurar veracidad 
+        </p>
+        
+    <article>
+        <h2> Las siestas de Tita</h2>
+        <p class="centrado"> Preferiblemente en su sillon con su manta marron </p>
+    </article>
+    <article>
+        <h2> Sus preferencias en actividades y personas </h2>
+        <p class="right"> Sus pasatiempos son innumerables, todos los dias encuentra nuevas maneras de entretenerse
+        <br>
+        <br> Personas favoritas <mark>(no estan en orden de preferencias)</mark>
+        <ul>
+            <li>Turi, porque tiene una casa re cheta</li>
+            <li>Pame, porque me da de comer y sus piernas son comodas para dormir de noche</li>
+            <li>Magui, que hace lindos mimos y me cuida de Guada</li>
+            <li>Ana, porque juega en la cocina y se le caen alimentos</li>
+            <li>Fati, porque es mi mascota y me hace mimos</li>
+            <li>Tia Chola, porque tiene unas plantas re interesantes </li>
+            <li>El gran José, que siempre trae carne consigo </li>
+        
+        </ul>
+    </p>
+    </article>
+    <article>
+    <h2> una semana normal de Tita? </h2>
+    <p> Tita tiene semanas agitadas, con actividades tremendamente importantes, 
+        <br> para ver como será la semana proxima de este gato travieso,
+        <br> <a href="horarios.html">seguí el link</a>  </p>
+    <h2> Suscribite al News Letter <i> ...y enterate de todo! </i> </h2>
+    <a href="suscribirse.html">Suscribite haciendo clic acá</a>
+</article>
+</section>
+</div>
+
+
+<footer>
+    <p>para encontrarme, contactá a mis humanos o venite:<br> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d84577.97593879716!2d-57.52919593362932!3d-38.02033133186901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584dc3b5ffde97f%3A0x990044836550d80c!2sGasc%C3%B3n%201436%2C%20B7600FMD%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1618493711148!5m2!1ses-419!2sar" id="iframe1" allowfullscreen="" loading="lazy"></iframe></p>
+</footer>
+   
+
+</body>
+
+         <div class="card">
+            <h2>Queres ser como yo?</h2>
+            <h5>Comprate un collar con chapita re copado </h5>
+            <img src="images/chapita.png" alt="Chapita MDP" class="fakeimg" style="height:200px;">
+            <p>Son unos humanos re copados que te hacen collares y les pones el texto que quieras, yo decidí ponerle mi nombre y un numero de<
+
+
+
+
+
+var trigger = [
+["hola","Che...","Holis"], 
+	[["Como va eso", "como va la vida", "como van las cosas"],
+["qué estás haciendo", "qué está pasando"],
+["Cuántos años tienes"],
+["quién eres", "eres humano", "eres Gato", "eres bot", "sos un robot" "eres humano o bot"],
+["quién te creó", "quién te hizo"],
+["su nombre, por favor", "su nombre", "puedo saber su nombre", "cuál es su nombre"],
+["te quiero"],
+["Turi"],
+["Pame"],
+["Magui"],
+["Ana"],
+["Fati"],
+["Tia Chola"],
+["José"],
+["feliz", "bueno"],
+["malo", "aburrido", "cansado"],
+["ayúdame", "cuéntame una historia", "cuéntame un chiste"],
+["ah", "sí", "ok", "ok", "bonito", "gracias", "gracias"],
+["adiós", "adiós", "adiós", "nos vemos luego"]
+];
+var reply = [
+[
+["Hola", "Oye", "Hola"],
+["Bien", "Bastante bien", "Fantástico"],
+["No mucho", "A punto de irme a dormir", "¿Puedes invitarme?", "No lo sé en realidad"],
+["no se los dias... pero soy joven"],
+["Solo soy una gata", "Soy una gata. ¿Qué eres tú?"],
+["Soy el gato mas hacker del universo", "Dios mío"],
+["NSoy Tita... no lees?", "No tengo nombre"],
+["Yo también te amo", "Yo también"],
+["Sabés que me cae bien un humano con ese nombre Turi, porque tiene una casa re cheta"];
+["Sabés que me cae bien una tal Pame, porque me da de comer y sus piernas son comodas para dormir de noche"];
+["Sabés que me cae bien un pichon humano Magui, que hace lindos mimos y me cuida de Guada"];
+["Sabés que me cae bien Ana, porque juega en la cocina y se le caen alimentos"];
+["Sabés que me enloquece la prescencia de Fati, porque es mi mascota y me hace mimos"];
+["Sabés que la Tia Chola, me cuida y tiene unas plantas re interesantes"];
+["Sabés que hay un DIOS del asado El gran José, carne a la parrilla de primera!"];
+["¿Alguna vez te has sentido mal?", "Me alegra oírlo"],
+["¿Por qué?", ​​"¿Por qué? ¡No deberías!", "Prueba a ver televisión"],
+["Lo haré", "¿Sobre qué?"],
+["Cuéntame una historia", "Cuéntame un chiste", "Cuéntame sobre ti", "De nada"],
+["Adiós", "Adiós", "Hasta luego"]
+];
+
+let tabla =`
+<table>
+          <tr>
+            <th>Codigo</th>
+            <th>Nombre</th>
+            <th>Descipcion</th>
+            <th>Imagen</thd>
+          </tr>
+          `
+for (let i = 0; i < codigos.length; i++) {
+
+tabla=tabla+`
+
+          <tr>
+            <td>${codigos [i]}</td>
+            <td> ${nombres [i]}</td> 
+            <td> ${descripciones [i]}</td>
+            <td><img src="${imagenes [i]}" alt="${nombres [i]}"></td>
+          </tr>
+`
+        }
+document.getElementById("idtabla").innerHTML=tabla
+
+
+-----------------------
+var codigos=["cod1","cod2","cod3","cod4","cod5","cod6"]
+var imagenes=["imagenes/focaccia.jpg","imagenes/goulash.jpg","imagenes/salmorejo.jpg","imagenes/seafood.jpg","imagenes/focaccia.jpg","imagenes/goulash.jpg"];
+var nombres=["Focaccia","Goulash","Salmorejo","Seafood","revuelto de gramajo","ropa vieja"]
+var descripciones=["La focaccia es la predecesora de la pizza","Clasico de la cocina húngara","El salmorejo es una crema ácida","Los mariscos criaturas marinas que puedes comer","lo de ayer con huevo y cebolla","Lo de la semana pasada, presentado bonito con ajo y perejil",]    
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H1>Se le notifica que <div id="alumno"></div></H1>
+    <h2>Ha obtenido un promedio de <div id="promedio"></div></h2>
+    <br>
+    <P>sin otro particular se lo saluda atentamente, La dirección</P>
+    
+    <script>
+
+        var nombre = prompt("ingrese un nombre")
+        var myNumber1 = prompt( "ingrese la primera nota")
+        var myNumber2 = prompt("ingrese la segunda nota")
+        var myNumber3= prompt("ingrese la tercera nota")
+        var div= 3
+
+var res=(myNumber1+myNumber2+myNumber3)
+var resultado =(res)
+
+document.getElementById("alumno").innerHTML=nombre
+document.getElementById("promedio").innerHTML=resultado
+
+    </script>
+</body>
+</html>
+
+

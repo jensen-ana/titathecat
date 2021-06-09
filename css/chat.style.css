@@ -1,0 +1,27 @@
+h1{
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+    text-align: center;
+}
+
+body { 
+	color: #421; font-weight: bold; font-size: 18px; background: #EE4; 
+	background-image: url("girl.png"); background-repeat: repeat-y; 
+}
+span { 
+	color: #711; 
+} 
+::-webkit-input-placeholder { 
+	color: #711 
+}
+#main { 
+	position: fixed; top: 40%; right: 60px; width: 400px; 
+	border: 0px solid #421; padding: 40px; 
+}
+#main div { 
+	margin: 10px; 
+} 
+#input { 
+	border: 0; background: #EBE547; padding: 5px; border: 1px solid #421; 
+}
