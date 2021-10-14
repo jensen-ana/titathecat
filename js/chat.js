@@ -10,21 +10,21 @@ else if (sign.toLowerCase() == "pame") {
     
 } else if (sign.toLowerCase() == "magui") {
     document.getElementById("mensajePersonal").innerHTML=
-    " <h3>MAGUI! De nuevo por acá? me encanta que me visites, todavía no anda el chat... pero estoy trabajando para que prontito funcione</h3>";
+    " <h3>MAGUI! GRACIAS POR LA TARJETA!!!! Me encantó cómo me dibujaste, soy igual!! Lamentablemente, todavía no anda el chat... pero sigo trabajando para que prontito funcione</h3>";
     
 } else if (sign.toLowerCase() == "guada") {
     document.getElementById("mensajePersonal").innerHTML=
-    " <h3>Hola Guadi!!! que onda? como va eso? </h3>";
+    " <h3>Hola Guadi!!! GRACIAS POR ESA TARJETA HERMOSA!!! </h3> <br> <p> Me encantó!</p>";
     
 }
  else if (sign.toLowerCase() == "Sandra") {
     document.getElementById("mensajePersonal").innerHTML=
-    " <h3>ey! haceme un mimo la proxima vez que me veas</h3>";
+    " <h3>ey! haceme un mimo la proxima vez que me veas, que no tengo pulgas!</h3>";
 } 
 
 else if (sign.toLowerCase() == "abu") {
     document.getElementById("mensajePersonal").innerHTML=
-    " <h3>Gracias Abu Graciela por la idea de la caja con el almohadon, lo uso todos los dias! me encanta dormir ahí! Saludá de mi parte a el Abu José Luis!!!</h3>";
+    " <h3>Abu Graciela necesito una caja con almohadon nueva, me está quedando chica!</h3> <p> Saludá de mi parte a el Abu José Luis!!!<";
 }   
     
 else {
